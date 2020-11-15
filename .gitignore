@@ -1,0 +1,11 @@
+.vscode
+__pycache__/
+build
+dist
+lib
+scripts
+
+*.pdf
+
+*.spec
+pyvenv.cfg
